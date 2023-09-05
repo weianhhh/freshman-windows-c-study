@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "读取bois", "读取bois.vcxproj", "{3D983676-F2CB-462D-8D55-3233ABDA57EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D983676-F2CB-462D-8D55-3233ABDA57EA}.Debug|x64.ActiveCfg = Debug|x64
+		{3D983676-F2CB-462D-8D55-3233ABDA57EA}.Debug|x64.Build.0 = Debug|x64
+		{3D983676-F2CB-462D-8D55-3233ABDA57EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D983676-F2CB-462D-8D55-3233ABDA57EA}.Debug|x86.Build.0 = Debug|Win32
+		{3D983676-F2CB-462D-8D55-3233ABDA57EA}.Release|x64.ActiveCfg = Release|x64
+		{3D983676-F2CB-462D-8D55-3233ABDA57EA}.Release|x64.Build.0 = Release|x64
+		{3D983676-F2CB-462D-8D55-3233ABDA57EA}.Release|x86.ActiveCfg = Release|Win32
+		{3D983676-F2CB-462D-8D55-3233ABDA57EA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B6BF5A4-A36D-4039-AB2D-46BF03A10891}
+	EndGlobalSection
+EndGlobal
